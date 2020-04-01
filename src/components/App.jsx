@@ -1,10 +1,9 @@
 import React from 'react';
+import RoutesPage from './RoutesPage';
 
 function App() {
   return (
-    <h1 className="App">
-      Plataforma
-    </h1>
+    <RoutesPage/>
   );
 }
 
